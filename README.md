@@ -29,8 +29,8 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.facebook.com/Bïšmā Mâhêńdrä-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.facebook.com/Bïšmā Mâhêńdrä-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.facebook.com/Bïšmā_Mâhêńdrä-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.facebook.com/Bïšmā_Mâhêńdrä-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/bsmahndra.id#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/bsmahndra.id#gh-dark-mode-only)
